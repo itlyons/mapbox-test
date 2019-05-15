@@ -1,7 +1,7 @@
 # mapbox-test
 Testing Mapbox functionality for Civic Technology
 
-Under the City of Chicago's short-term rental ordinance, buildings may be placed on a list which excludes tenants or owners in that building from renting their building for 31 days or less.
+Under the City of Chicago's short-term rental ordinance, buildings may be placed on a list which excludes tenants or owners in that building from renting their unit for 31 days or less.
 
 [See The Map](https://itlyons.github.io/mapbox-test/index.html)  
 
